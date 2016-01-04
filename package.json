@@ -1,0 +1,15 @@
+{
+  "name": "telegramBot-gitPullStatus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gosh",
+  "license": "ISC",
+  "dependencies": {
+    "git-emit": "0.0.0",
+    "node-telegram-bot": "^0.1.6"
+  }
+}
